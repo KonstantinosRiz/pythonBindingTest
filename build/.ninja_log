@@ -1,0 +1,12 @@
+# ninja log v5
+0	363	1631015165435949244	CMakeFiles/libexample.dir/example.cpp.o	d70e7b1033843d6c
+364	418	1631015165491950087	libexample.so	ef4139aef5e23e3c
+418	2745	1631015167739983926	MyModule/mymodule_module_wrapper.cpp	e3c50156ee78de8b
+0	7	0	CMakeFiles/install.util	943e502a863ba014
+418	2745	1631015167739983926	MyModule/example_wrapper.cpp	e3c50156ee78de8b
+2745	3791	1631015168868000903	CMakeFiles/MyModule.dir/MyModule/mymodule_module_wrapper.cpp.o	cf209f6809d30f16
+418	2745	1631015167739983926	/home/kostas/Documents/internship/addNumbers/build/MyModule/mymodule_module_wrapper.cpp	e3c50156ee78de8b
+418	2745	1631015167739983926	/home/kostas/Documents/internship/addNumbers/build/MyModule/example_wrapper.cpp	e3c50156ee78de8b
+2745	3915	1631015168992002769	CMakeFiles/MyModule.dir/MyModule/example_wrapper.cpp.o	fe8b4a73a3de425
+3915	3993	1631015169068003913	MyModule.so	dff26315c8124e0f
+1	8	0	CMakeFiles/install.util	943e502a863ba014

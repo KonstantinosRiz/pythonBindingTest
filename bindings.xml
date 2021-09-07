@@ -1,0 +1,8 @@
+<typesystem package="MyModule">
+
+    <primitive-type name="double"/>
+
+    <value-type name="Example">
+    </value-type>
+
+</typesystem>

@@ -1,0 +1,2 @@
+/home/kostas/Documents/internship/addNumbers/MyModule.so
+/home/kostas/Documents/internship/addNumbers/libexample.so
