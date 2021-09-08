@@ -33,13 +33,13 @@ Useful links:
 
 Starting from the folder containing all the above files
 
-mkdir build                                           create building folder<br>
-cd build
-cmake -H.. -B. -G Ninja -DCMAKE_BUILD_TYPE=Release    1st building step
-ninja                                                 2nd building step
-ninja install                                         3rd building step
-cd ../
-python main.py                                        run the program
+mkdir build                                           <br>
+cd build                                              <br>
+cmake -H.. -B. -G Ninja -DCMAKE_BUILD_TYPE=Release    <br>
+ninja                                                 <br>
+ninja install                                         <br>
+cd ../                                                <br>
+python main.py                                        
 
 New files created in the process:
 
