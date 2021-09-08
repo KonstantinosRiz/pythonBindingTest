@@ -33,7 +33,7 @@ Useful links:
 
 Starting from the folder containing all the above files
 
-mkdir build                                           create building folder
+mkdir build                                           create building folder<br>
 cd build
 cmake -H.. -B. -G Ninja -DCMAKE_BUILD_TYPE=Release    1st building step
 ninja                                                 2nd building step
